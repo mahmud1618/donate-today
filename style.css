@@ -27,6 +27,8 @@ body {
 h1 {
     color: black;
     text-align: center;
+    margin: 0;
+    padding-bottom: 20px;
 }
 
 #color-white {
@@ -34,13 +36,23 @@ h1 {
 }
 
 .background-photo {
+    text-align: center;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-    height: 669px;
+    background-size: cover;
+    height: 550px;
     width: 1440px;
     left: 0;
     top: 0;
+}
 
+.Donate-Today {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.display {
+    display: flex;
+    margin: 10px 20px;
 
 }
