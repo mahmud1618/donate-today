@@ -17,6 +17,10 @@ body {
     padding-top: 100px;
 }
 
+.padding {
+    padding-top: 20px;
+}
+
 .link-bottom {
     text-decoration: none;
     background-color: rgb(205, 92, 92);
@@ -164,6 +168,8 @@ h1 {
     background-color: cornsilk;
     text-decoration: none;
     padding: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 
 .Subscribe {
