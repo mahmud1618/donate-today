@@ -17,10 +17,6 @@ body {
     padding-top: 100px;
 }
 
-.padding {
-    padding-top: 20px;
-}
-
 .link-bottom {
     text-decoration: none;
     background-color: rgb(205, 92, 92);
@@ -59,19 +55,22 @@ h1 {
 }
 
 .margin {
-    text-align: center;
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 20px;
+    padding: 20px;
     background-color: antiquewhite;
     margin-left: 5px;
     margin-right: 5px;
 }
 
-.tk {
-    text-align: center;
+#tk {
     background-color: lightpink;
+}
+
+hr {
+    width: 50%;
+    margin-bottom: 30px;
 }
 
 .middle {
@@ -88,11 +87,6 @@ h1 {
 
 .flexible {
     display: flex;
-}
-
-.hr-tag {
-    width: 50%;
-    padding-bottom: 20px;
 }
 
 #box-1 {
@@ -181,6 +175,7 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: black;
+    margin-top: 50px;
 }
 
 .footer-1 {
@@ -192,4 +187,9 @@ h1 {
     color: white;
     text-align: center;
     font-size: smaller;
+}
+
+.div-1 {
+    text-align: center;
+    margin-left: 400px;
 }
