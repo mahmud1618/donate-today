@@ -17,6 +17,11 @@ body {
     padding-top: 100px;
 }
 
+.Donate-Today {
+    margin-top: 70px;
+    text-align: center;
+}
+
 .link-bottom {
     text-decoration: none;
     background-color: rgb(205, 92, 92);
@@ -49,13 +54,13 @@ h1 {
     top: 0;
 }
 
-.Donate-Today {
-    padding-top: 80px;
+.div-1 {
     text-align: center;
+    margin-left: 380px;
 }
 
 .margin {
-    padding-left: 20px;
+    padding-left: 10px;
     padding-right: 20px;
     padding-top: 20px;
     padding: 20px;
@@ -66,6 +71,7 @@ h1 {
 
 #tk {
     background-color: lightpink;
+    border: red solid 2px;
 }
 
 hr {
@@ -187,9 +193,4 @@ hr {
     color: white;
     text-align: center;
     font-size: smaller;
-}
-
-.div-1 {
-    text-align: center;
-    margin-left: 400px;
 }
