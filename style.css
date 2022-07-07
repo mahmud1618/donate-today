@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.padding-top {
+    padding-top: 100px;
+}
+
 .link-bottom {
     text-decoration: none;
     background-color: rgb(205, 92, 92);
